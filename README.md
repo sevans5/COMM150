@@ -1,1 +1,1 @@
-# Assignment for the web design portion of COMM 150
+# Webpage for COMM150
