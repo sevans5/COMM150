@@ -3,6 +3,7 @@
 body {
     text-align:  center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      background-color: white; 
 
 }
 
@@ -14,7 +15,6 @@ body {
 }
 
 .site {
-    background-color: white; 
     color: #58534B;
 }
 
